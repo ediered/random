@@ -1,6 +1,4 @@
-let name = 'Eden'; 
-let age = '19'; 
-let favoriteGame = 'Super Mario 64'; 
+//code here 
 
 
 
